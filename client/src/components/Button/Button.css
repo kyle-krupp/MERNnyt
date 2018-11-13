@@ -1,0 +1,9 @@
+.action-btn {
+    float: right;
+    cursor: pointer; 
+  }
+
+  .action-btn:hover {
+    color: white; 
+    background-color: rgba(1, 1, 36, 0.7); 
+  }

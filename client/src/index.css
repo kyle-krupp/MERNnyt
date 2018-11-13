@@ -1,0 +1,32 @@
+html {
+  height: 100%; 
+  padding: 20px; 
+  background-color:black; 
+
+}
+body {
+  background-position: center; 
+  background-repeat: no-repeat; 
+  font-family: 'Noticia Text', serif;
+  background-color:white; 
+  
+}
+
+.main-page {
+  max-width: 1500px; 
+  background-color:white;
+  box-shadow: 0 0 50px 10px gray;
+  background-image: url('http://bgfons.com/uploads/newspaper/newspaper_texture2847.jpg');
+}
+
+.font-1 {
+  font-family: 'Bangers', cursive;
+}
+
+.font-2 {
+  font-family: 'Pacifico', cursive;
+}
+
+.font-3 {
+  font-family: 'Noticia Text', serif;
+}

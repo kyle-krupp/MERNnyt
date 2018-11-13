@@ -1,0 +1,24 @@
+.jumbotron {
+    background: url("https://i2.wp.com/digiday.com/wp-content/uploads/2015/03/112774864.jpg?resize=1440%2C441&ssl=1"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    color:white;
+}
+@media screen and (max-width: 992px) {
+    .responsive-text > p {
+        font-size: 100px; 
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .responsive-text > p {
+        font-size: 75px; 
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    .responsive-text > p {
+        font-size: 50px; 
+    }
+  }
